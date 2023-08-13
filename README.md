@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=sladkkkov&theme=dark" alt="GitHub Streak"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=sladkkkov&theme=dark" alt="GitHub Streak"  width="444"/>
 </div>
 
 
