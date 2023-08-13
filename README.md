@@ -9,10 +9,10 @@
 
 <div>
   <ul>
-    <li>:sunny: Участвовал в Nexign Bootcamp 2023.</li>
-    <li>:gem: Участвовал в Mentors Program.</li>
-    <li>:zap: Участвовал в Nexign Bootcamp 2022.</li>
-    <li>:whale: Проходил стажировку в Учебном центре Neoflex.</li>
+    <li>:sunny: Прошёл в Nexign Bootcamp 2023.</li>
+    <li>:gem: Прошёл в Mentors Program.</li>
+    <li>:zap: Прошёл в Nexign Bootcamp 2022.</li>
+    <li>:whale: Прошёл стажировку в Учебном центре Neoflex.</li>
     <li>:tiger: Завершил SimbirSoft Backend Practicum.</li>
     <li>:mailbox: Как связаться со мной: <a href="https://t.me/sladkkov"><img src="https://img.shields.io/badge/-sladkkov-blue?style=flat&logo=Telegram&logoColor=white" alt="Telegram Badge"/></a></li>
   </ul>
