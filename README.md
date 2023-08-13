@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="bunny.gif" width="255"/>
+  <img src="bunny.gif" width="155"/>
   <p style="font-size: 20px;">Привет, меня зовут Данила<br>Я Java Developer</p>
 </div>
 
