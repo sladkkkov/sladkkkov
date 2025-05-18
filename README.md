@@ -1,6 +1,6 @@
 <div align="center">
   <img src="bunny.gif" width="155"/>
-  <p style="font-size: 20px;">Я Java Developer</p>
+  <p style="font-size: 20px;">Java Dev</p>
 </div>
 
 <p align="center">
